@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://huhanchen1225.github.io</id>
+    <title>翰辰的博客</title>
+    <updated>2024-08-17T03:41:31.147Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://huhanchen1225.github.io"/>
+    <link rel="self" href="https://huhanchen1225.github.io/atom.xml"/>
+    <subtitle>莫愁前路无知,己天下谁人不识君</subtitle>
+    <logo>https://huhanchen1225.github.io/images/avatar.png</logo>
+    <icon>https://huhanchen1225.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 翰辰的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测测]]></title>
+        <id>https://huhanchen1225.github.io/post/ce-ce/</id>
+        <link href="https://huhanchen1225.github.io/post/ce-ce/">
+        </link>
+        <updated>2024-08-17T03:41:17.000Z</updated>
+        <content type="html"><![CDATA[<p>11114444555222</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://huhanchen1225.github.io/post/114514/</id>
+        <link href="https://huhanchen1225.github.io/post/114514/">
+        </link>
+        <updated>2024-08-17T02:49:09.000Z</updated>
+        <content type="html"><![CDATA[<p>hihihi<br>
+嘿朋友，当你看到这时，我已经有自己的博客了，还有了自己的域名，哈哈哈</p>
+]]></content>
+    </entry>
+</feed>
